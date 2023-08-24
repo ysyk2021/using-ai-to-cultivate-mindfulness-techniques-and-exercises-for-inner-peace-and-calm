@@ -1,5 +1,3 @@
-Assessing Your Mindfulness Needs and Resources for Successful Integration and Adoption
-=======================================================================================================================================================
 
 In this chapter, we will explore how to assess your mindfulness needs and resources to successfully integrate and adopt AI-enabled mindfulness practice into your daily life.
 

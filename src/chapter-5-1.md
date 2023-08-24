@@ -1,5 +1,3 @@
-Developing Habits and Routines for Consistent and Effective Mindfulness Practice with AI Support
-========================================================================================================================================================================
 
 In this chapter, we will explore how to develop habits and routines for consistent and effective mindfulness practice with the support of AI technology. Consistency is key when it comes to mindfulness practice, and AI can help you stay motivated, focused, and consistent in your efforts.
 

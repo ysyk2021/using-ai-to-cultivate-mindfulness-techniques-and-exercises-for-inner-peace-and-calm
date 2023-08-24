@@ -1,5 +1,3 @@
-Different Types of AI Techniques and Platforms for Mindfulness Enhancement and Support
-==============================================================================================================================================
 
 In this chapter, we will explore different types of AI techniques and platforms that can be used to enhance mindfulness practice. Understanding the various AI technologies available can help you choose the best tools to support your mindfulness goals.
 

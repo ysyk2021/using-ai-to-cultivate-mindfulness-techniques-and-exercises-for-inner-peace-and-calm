@@ -1,5 +1,3 @@
-Setting Your Mindfulness Goals and Objectives for AI Use and Personal Growth
-=============================================================================================================================================
 
 In this chapter, we will explore how to get started with AI-enabled mindfulness practice by setting goals and objectives for personal growth. By defining your mindfulness goals and objectives, you can choose the best AI tools and techniques to support your mindfulness practice.
 

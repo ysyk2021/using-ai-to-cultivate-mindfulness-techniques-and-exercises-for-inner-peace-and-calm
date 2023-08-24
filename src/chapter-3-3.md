@@ -1,5 +1,3 @@
-Tools and Software for AI-Enabled Mindfulness Practice and Self-Reflection
-==================================================================================================================================
 
 In this chapter, we will explore various tools and software that can be used to enhance mindfulness practice and self-reflection with the help of AI technology.
 

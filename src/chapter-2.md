@@ -1,5 +1,3 @@
-Chapter 2: Getting Started with AI-Enabled Mindfulness Practice
-===============================================================
 
 In this chapter, we will explore how to get started with AI-enabled mindfulness practice. We will discuss how to set mindfulness goals and objectives, assess your mindfulness needs and resources, and create a customized mindfulness roadmap for AI implementation and practice.
 

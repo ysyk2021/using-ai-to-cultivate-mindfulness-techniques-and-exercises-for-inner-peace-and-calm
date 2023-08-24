@@ -1,5 +1,3 @@
-Basic Principles and Processes of AI Algorithms and Machine Learning Models for Mindfulness
-===================================================================================================================================================
 
 In this chapter, we will explore the basic principles and processes of AI algorithms and machine learning models that are used to enhance mindfulness practice. Understanding these principles can help you better understand how AI technology is used to support mindfulness goals.
 

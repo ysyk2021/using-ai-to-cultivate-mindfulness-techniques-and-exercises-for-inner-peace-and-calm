@@ -1,5 +1,3 @@
-Chapter 3: Understanding AI Technology for Mindfulness
-======================================================
 
 In this chapter, we will explore the different types of AI techniques and platforms that can be used to enhance mindfulness practice. We will also discuss the basic principles and processes of AI algorithms and machine learning models that are used to support mindfulness goals. Finally, we will introduce various tools and software that use AI technology for mindfulness practice and self-reflection.
 

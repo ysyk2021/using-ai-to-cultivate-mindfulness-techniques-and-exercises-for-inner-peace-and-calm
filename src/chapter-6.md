@@ -1,5 +1,3 @@
-Chapter 6: Evaluating the Impact of AI on Mindfulness Practice and Outcomes
-===========================================================================
 
 In this chapter, we will explore how to evaluate the impact of AI on mindfulness practice and outcomes. We will discuss methods for measuring effectiveness and benefits of AI-enabled mindfulness practice for mental health and wellness, as well as identifying key performance metrics and goals for improvement and optimization.
 

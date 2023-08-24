@@ -1,5 +1,3 @@
-Understanding the Basics of AI and Its Applications for Mindfulness
-============================================================================================
 
 In this chapter, we will introduce the basics of AI (Artificial Intelligence) and its applications for mindfulness practice. We will explore how AI technology can be used to enhance mindfulness practice, promote inner peace and calm, and support personal growth.
 

@@ -27,3 +27,4 @@
   - [Challenges and Risks of AI Adoption in Mindfulness and Mental Health Practice and How to Overcome Them](chapter-7-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)

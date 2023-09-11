@@ -1,5 +1,4 @@
-Chapter 5: Creating a Customized Mindfulness Roadmap for AI Implementation and Practice
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will guide you through the process of creating a personalized mindfulness roadmap that integrates Artificial Intelligence (AI) for enhanced inner peace and calm. Your customized plan will help you harness AI technology effectively to support your mindfulness journey.
 

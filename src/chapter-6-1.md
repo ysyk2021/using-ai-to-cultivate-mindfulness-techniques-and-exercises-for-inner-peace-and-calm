@@ -1,5 +1,4 @@
-Chapter 7: Measuring the Effectiveness and Benefits of AI-Enabled Mindfulness Practice for Mental Health and Wellness
-=====================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial topic of assessing the impact and advantages of incorporating AI-enabled mindfulness practices into your mental health and wellness routine. Understanding how to measure the effectiveness of these techniques is essential for ensuring that AI is genuinely contributing to your inner peace and overall well-being.
 

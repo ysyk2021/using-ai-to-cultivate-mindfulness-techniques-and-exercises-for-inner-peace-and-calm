@@ -1,5 +1,4 @@
-Chapter 2: Assessing Your Mindfulness Needs and Resources for Successful Integration and Adoption
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial step of assessing your mindfulness needs and available resources to ensure a successful integration of Artificial Intelligence (AI) into your journey towards inner peace and calm.
 

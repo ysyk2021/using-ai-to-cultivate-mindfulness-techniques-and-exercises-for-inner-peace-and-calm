@@ -1,5 +1,4 @@
-Chapter 5: Improving Your Meditation Practice with AI-Enabled Guidance and Feedback
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how Artificial Intelligence (AI) can be harnessed to enhance your meditation practice. AI-enabled guidance and feedback offer valuable tools to deepen your mindfulness journey, providing insights, support, and personalized experiences for inner peace and calm.
 

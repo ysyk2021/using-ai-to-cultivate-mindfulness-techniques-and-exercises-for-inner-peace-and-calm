@@ -1,5 +1,4 @@
-Chapter 5: Integrating Mindfulness into Your Daily Life with AI-Enabled Mindful Living
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how Artificial Intelligence (AI) can be harnessed to cultivate mindfulness in your daily activities. Mindfulness is not limited to meditation; it can be integrated seamlessly into your life with the help of AI.
 

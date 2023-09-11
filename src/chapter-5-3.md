@@ -1,5 +1,4 @@
-Chapter 6: Applying Mindfulness for Personal Growth, Relationships, and Well-Being with AI-Enabled Insights and Analytics
-=========================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how to harness the power of mindfulness, combined with AI-enabled insights and analytics, to enhance personal growth, improve relationships, and foster overall well-being.
 

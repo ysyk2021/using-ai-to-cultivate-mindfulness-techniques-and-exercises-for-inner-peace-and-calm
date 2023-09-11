@@ -1,5 +1,4 @@
-Chapter 3: Setting Your Mindfulness Goals and Objectives for AI Use and Personal Growth
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the essential process of setting clear and meaningful mindfulness goals and objectives when integrating AI into your personal growth journey towards inner peace and calm.
 

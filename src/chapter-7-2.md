@@ -1,5 +1,4 @@
-Chapter 6: Challenges and Risks of AI Adoption in Mindfulness and Mental Health Practice and How to Overcome Them
-=================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the challenges and potential risks associated with the integration of AI into mindfulness and mental health practices. While AI offers promising opportunities, it is essential to be aware of the obstacles and strategies to mitigate them.
 

@@ -1,5 +1,4 @@
-Chapter 7: Developing Habits and Routines for Consistent and Effective Mindfulness Practice with AI Support
-===========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the importance of establishing habits and routines to maintain a consistent and effective mindfulness practice with the support of AI. Building these habits is crucial for harnessing the full potential of AI in your mindfulness journey.
 

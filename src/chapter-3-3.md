@@ -1,5 +1,4 @@
-Chapter 8: Tools and Software for AI-Enabled Mindfulness Practice and Self-Reflection
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore a range of tools and software that can enhance your mindfulness practice and support self-reflection through the power of Artificial Intelligence (AI). These tools are designed to help you achieve inner peace and calm more effectively.
 

@@ -1,5 +1,4 @@
-Chapter 10: Basic Principles and Processes of AI Algorithms and Machine Learning Models for Mindfulness
-=======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the fundamental principles and processes of AI algorithms and machine learning models that underpin the integration of artificial intelligence into mindfulness practices. Understanding these concepts will provide you with insights into how AI can enhance your journey toward inner peace and calm.
 

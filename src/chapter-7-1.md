@@ -1,5 +1,4 @@
-Chapter 7: Emerging Trends and Opportunities in AI for Mindfulness and Emotional Intelligence Enhancement
-=========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the exciting and ever-evolving world of AI as it relates to mindfulness and emotional intelligence enhancement. We will explore the latest trends and the myriad opportunities AI presents for fostering inner peace, calm, and emotional well-being.
 

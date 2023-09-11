@@ -1,5 +1,4 @@
-Chapter 6: Building Resilience and Coping Skills with AI-Enabled Stress Management and Relaxation Techniques
-============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how the integration of Artificial Intelligence (AI) can assist in building resilience and coping skills through effective stress management and relaxation techniques. AI-powered tools offer valuable support in enhancing your ability to navigate life's challenges while maintaining inner peace and calm.
 
